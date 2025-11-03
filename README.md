@@ -27,7 +27,7 @@ Represents a user trying to gain unauthorized access by attempting to change the
 **Cleanup Activity**  
 Simulates an attacker attempting to cover their tracks by permanently deleting files, which is rare and highly suspicious.
 
-<br><br><br>
+<br>
 
 ## Evaluation Plots
 
